@@ -1,0 +1,12 @@
+*{
+    margin-top: 15px;
+    font-family: sans-serif;
+    font-size: larger;
+    padding: 15px;
+    border: 15px;
+    margin: 20px;
+    background-color: lightblue;
+}
+.font{
+    font: optional;
+}
